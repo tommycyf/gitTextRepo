@@ -1,1 +1,0 @@
-I forgot how to write C code
